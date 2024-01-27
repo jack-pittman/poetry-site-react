@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/poetry-site-react/static/css/main.f957488f.css",
-    "main.js": "/poetry-site-react/static/js/main.c4422c8c.js",
+    "main.js": "/poetry-site-react/static/js/main.656c2ef0.js",
     "static/js/787.d4aba7ab.chunk.js": "/poetry-site-react/static/js/787.d4aba7ab.chunk.js",
     "static/media/Montserrat-Medium.ttf": "/poetry-site-react/static/media/Montserrat-Medium.b8c6753baa964ccac1ba.ttf",
     "static/media/Montserrat-Regular.ttf": "/poetry-site-react/static/media/Montserrat-Regular.24785cc015b27a3e964b.ttf",
@@ -9,11 +9,11 @@
     "static/media/WernickeSchwabacher.ttf": "/poetry-site-react/static/media/WernickeSchwabacher.c70dae95e53afbe61158.ttf",
     "index.html": "/poetry-site-react/index.html",
     "main.f957488f.css.map": "/poetry-site-react/static/css/main.f957488f.css.map",
-    "main.c4422c8c.js.map": "/poetry-site-react/static/js/main.c4422c8c.js.map",
+    "main.656c2ef0.js.map": "/poetry-site-react/static/js/main.656c2ef0.js.map",
     "787.d4aba7ab.chunk.js.map": "/poetry-site-react/static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f957488f.css",
-    "static/js/main.c4422c8c.js"
+    "static/js/main.656c2ef0.js"
   ]
 }
